@@ -1,4 +1,4 @@
-# CSCI5551-S26-Team-Goophers
+# CSCI5551-S26-Team-Gophers
 UMN TC CSCI 5551 Introduction to Intelligent Robotics - Final Project
 
 **Project Title**: Autonomous Robotic Suturing
